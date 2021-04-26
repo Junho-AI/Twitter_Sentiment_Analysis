@@ -2,6 +2,8 @@
 
 
 ## todo list
+| Plugin | README |
+| ------ | ------ |
 | 1 | 데이터 출처 |
 | 2 | [plugins/github/README.md][PlGh] |
 | 3 | [plugins/googledrive/README.md][PlGd] |
