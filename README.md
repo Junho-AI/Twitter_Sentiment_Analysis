@@ -1,5 +1,14 @@
-## 트위터 감정분석을 사용한 2020 미국 대선 예측
-## Predicting the 2020 U.S. presidential election using Twitter Emotional Analysis
+## 트위터 감정분석을 사용한 2020 미국 대선 예측 (Predicting the 2020 U.S. presidential election using Twitter Emotional Analysis)
+
+
+## todo list
+| 1 | 데이터 출처 |
+| 2 | [plugins/github/README.md][PlGh] |
+| 3 | [plugins/googledrive/README.md][PlGd] |
+| 4 | [plugins/onedrive/README.md][PlOd] |
+| 5 | [plugins/medium/README.md][PlMe] |
+| 6 | [plugins/googleanalytics/README.md][PlGa] |
+
 
 ## 요약
 - 학습데이터는 Kaggle 참조
