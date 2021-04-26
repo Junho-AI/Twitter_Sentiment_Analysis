@@ -11,13 +11,13 @@
 
 
 ## 시각화 사진
-- 트럼프 일별 선호도 시각화 사진 <img width="817" alt="스크린샷 2021-04-26 오후 10 51 29" src="https://user-images.githubusercontent.com/83225927/116093782-f13b9b80-a6e1-11eb-9647-ccc164d12749.png">
-- 바이든 일별 선호도 시각화 사진 <img width="831" alt="스크린샷 2021-04-26 오후 10 49 07" src="https://user-images.githubusercontent.com/83225927/116093430-9d30b700-a6e1-11eb-9382-e4469d4bdbdc.png">
-- 트럼프, 바이든 선호도 동시 비교 <img width="825" alt="스크린샷 2021-04-26 오후 10 51 48" src="https://user-images.githubusercontent.com/83225927/116093843-fc8ec700-a6e1-11eb-946e-4037fdafedb2.png">
+- 트럼프 일별 선호도 시각화 사진 <img width="300" alt="스크린샷 2021-04-26 오후 10 51 29" src="https://user-images.githubusercontent.com/83225927/116093782-f13b9b80-a6e1-11eb-9647-ccc164d12749.png">
+- 바이든 일별 선호도 시각화 사진 <img width="300" alt="스크린샷 2021-04-26 오후 10 49 07" src="https://user-images.githubusercontent.com/83225927/116093430-9d30b700-a6e1-11eb-9382-e4469d4bdbdc.png">
+- 트럼프, 바이든 선호도 동시 비교 <img width="300" alt="스크린샷 2021-04-26 오후 10 51 48" src="https://user-images.githubusercontent.com/83225927/116093843-fc8ec700-a6e1-11eb-946e-4037fdafedb2.png">
 
 
 
 
 ## 최종 결과
-- <img width="844" alt="스크린샷 2021-04-26 오후 10 52 10" src="https://user-images.githubusercontent.com/83225927/116093906-0a444c80-a6e2-11eb-87af-50440649dfba.png">
+- <img width="300" alt="스크린샷 2021-04-26 오후 10 52 10" src="https://user-images.githubusercontent.com/83225927/116093906-0a444c80-a6e2-11eb-87af-50440649dfba.png">
 
