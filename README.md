@@ -1,16 +1,14 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# 트위터 감정분석을 사용한 2020 미국 대선 예측
+## Predicting the 2020 U.S. presidential election using Twitter Emotional Analysis
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+- 학습데이터는 Kaggle 참조
+- 임베딩으로는 word2vec, 선호도 예측 모델로는 LSTM을 사용
+- 트위터의 감정 분석을 위해 2020년 9월 22일부터 11 월 3일 대선 이전 기준으로, Tweepy라는 트위터 API를 사용하여 트윗을 수집하였다. Tweepy는 검색하고 싶은 키워드를 입력하여, 키워드에 해당하는 트윗을 실시간으
+로 수집한다. 본 논문에서는 미국 대선 후보자인 트럼프 와 바이든을 키워드로 설정하여 일별 10,000개의 트윗을 수집하였다.
+- 트위터를 분석하여 일(day)별, 주(state)별로 시각화
+- wordcloud를 통한 대선 키워드 파악
+- 선거인단 제도를 통해 최종 결과 예측✨
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
 ## Features
 
