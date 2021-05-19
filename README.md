@@ -1,4 +1,4 @@
-## 트위터 감정분석을 사용한 2020 미국 대선 예측 (Predicting the 2020 U.S. presidential election using Twitter Emotional Analysis)
+## 트위터 감정분석을 사용한 2020 미국 대선 예측(Predicting the 2020 U.S. presidential election using Twitter Emotional Analysis)
  - 2020년도 학부과정 4학년 2학기에 졸업작품으로 설계한 프로그램
  - 한국통신학회에 투고 (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547811)
  
