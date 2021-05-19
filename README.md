@@ -20,7 +20,7 @@
 - 바이든 일별 선호도 시각화 사진 
 <img width="700" alt="스크린샷 2021-04-26 오후 10 49 07" src="https://user-images.githubusercontent.com/83225927/116093430-9d30b700-a6e1-11eb-9382-e4469d4bdbdc.png">
 
-## 트럼프, 바이든 선호도 동시 비교 (선거 기간 내내 바이든 후보자의 득세)
+## 트럼프, 바이든 선호도 동시 비교 (선거 기간  바이든 후보자의 득세)
 <img width="700" alt="스크린샷 2021-04-26 오후 10 51 48" src="https://user-images.githubusercontent.com/83225927/116093843-fc8ec700-a6e1-11eb-946e-4037fdafedb2.png">
 
 
