@@ -4,7 +4,7 @@
  - 2020년도 학부과정 4학년 2학기에 졸업작품으로 설계한 프로그램
  - 한국통신학회에 투고 [[Paper link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547811)]
  
-## 요약
+## 요약 
 - 학습데이터는 Kaggle 참조 [[Link](https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis)]
 - 임베딩으로는 word2vec, 선호도 예측 모델로는 LSTM을 사용
 - 트위터의 감정 분석을 위해 2020년 9월 22일부터 11 월 3일 대선 이전 기준으로, Tweepy라는 트위터 API를 사용하여 트윗을 수집하였다. Tweepy는 검색하고 싶은 키워드를 입력하여, 키워드에 해당하는 트윗을 실시간으로 수집한다. 미국 대선 후보자인 트럼프 와 바이든을 키워드로 설정하여 대선 기간 동안 일별 10,000개의 트윗을 수집하였다.
